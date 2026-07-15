@@ -137,5 +137,3 @@ B.Sc. Physics, Mathematics & Computer Science
 Amrita Vishwa Vidyapeetham, Mysuru
 
 ---
-
-## ⭐ If you found this project useful, consider giving it a star!
