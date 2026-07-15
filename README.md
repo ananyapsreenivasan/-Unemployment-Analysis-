@@ -30,7 +30,7 @@ This project analyzes unemployment trends using Python and data visualization te
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Unemployment-Analysis/
@@ -42,7 +42,7 @@ Unemployment-Analysis/
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 The analysis includes:
 
@@ -58,7 +58,7 @@ The analysis includes:
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 The project uses several visualization techniques, including:
 
@@ -74,7 +74,7 @@ These visualizations help identify trends, outliers, and relationships within th
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 - Unemployment rates vary significantly across different states.
 - COVID-19 caused a noticeable increase in unemployment in many regions.
@@ -84,7 +84,7 @@ These visualizations help identify trends, outliers, and relationships within th
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone this repository:
 
@@ -108,7 +108,7 @@ jupyter notebook
 
 ---
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, you will learn:
 
